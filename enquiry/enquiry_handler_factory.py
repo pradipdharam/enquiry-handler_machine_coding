@@ -2,7 +2,7 @@ from enquiry.academic_enquiry_handler import AcademicEnquiryHandler
 from enquiry.enquiry_handler import EnquiryHandler
 from enquiry.idle_handler import IdleHandler
 from enquiry.log_handler import LogHandler
-from enquiry.project_enquiry_handler1 import ProjectEnquiryHandler
+from enquiry.project_enquiry_handler import ProjectEnquiryHandler
 from enquiry.subscription_enquiry_handler import SubscriptionEnquiryHandler
 
 
